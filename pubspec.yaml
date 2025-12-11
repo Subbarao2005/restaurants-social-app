@@ -1,0 +1,24 @@
+name: restaurants_social_app
+description: A Flutter mobile app for restaurant social networking using Google Maps and Firebase.
+publish_to: 'none'
+version: 1.0.0+1
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  google_maps_flutter: ^2.5.0
+  firebase_core: ^2.24.0
+  firebase_auth: ^4.13.0
+  firebase_database: ^10.2.0
+  geolocator: ^9.0.2
+  contacts_service: ^0.6.3
+  provider: ^6.0.0
+  cupertino_icons: ^1.0.2
+  intl: ^0.19.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+flutter:
+  uses-material-design: true
