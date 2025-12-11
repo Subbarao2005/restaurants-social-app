@@ -1,0 +1,50 @@
+# Flutter
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+.dart_tool/
+.pub-cache/
+.pub/
+Generated.xcconfig
+GeneratedPluginRegistrant.h
+GeneratedPluginRegistrant.m
+GeneratedPluginRegistrant.swift
+
+# Android
+android/.gradle
+android/app/debug
+android/app/profile
+android/app/release
+android/.idea
+android/local.properties
+
+# iOS
+ios/.symlinks/
+ios/.generated/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/ephemeral/
+ios/Pods/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Miscellaneous
+*.class
+*.log
+*.pyc
+.env
+.firebaserc
